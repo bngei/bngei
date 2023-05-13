@@ -29,16 +29,9 @@ I'm an indie full-stack developer and content creator building my version of the
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
-
-#
-
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=bngei&show_icons=true&theme=gruvbox)
-
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![Benjamin Truong's GitHub stats](https://github-readme-stats.vercel.app/api?username=bngei&show_icons=true&theme=gruvbox)
 
 #
 
