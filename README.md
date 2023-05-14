@@ -6,9 +6,9 @@ I'm a computer science student who is passionate about coding and discovering ne
 
 
 <!-- Beginning of badges -->
-<a href="https://www.linkedin.com/in/benjamin-truong-164861186/"> ![ alt text ](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=InVision&logoColor=white) </a>
-<a href="https://www.instagram.com/b.ngei/"> ![ alt text ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-<a href="https://github.com/bngei"> ![ alt text ](https://img.shields.io/badge/GitHub-00B14F?style=for-the-badge&logo=GitHub&logoColor=white) </a>
+<a href="https://www.linkedin.com/in/benjamin-truong-164861186/" target="_blank"> ![ alt text ](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=InVision&logoColor=white) </a>
+<a href="https://www.instagram.com/b.ngei/" target="_blank"> ![ alt text ](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white) </a>
+<a href="https://github.com/bngei" target="_blank"> ![ alt text ](https://img.shields.io/badge/GitHub-00B14F?style=for-the-badge&logo=GitHub&logoColor=white) </a>
 <!-- End of badges -->
 #
 
