@@ -4,8 +4,8 @@
 I'm a computer science student who is passionate about coding and discovering new things in the world of technology. I enjoy experimenting with different coding languages and technologies. I am determined to continue honing my skills and expanding my knowledge base. I believe that by staying curious and pushing myself to learn more, I can unlock new opportunities and make a meaningful contribution to the world of technology.
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="[https://www.youtube.com/c/fknight?sub_confirmation=1](https://www.linkedin.com/in/benjamin-truong-164861186/)">
+         <img alt="LinkedIN" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">
