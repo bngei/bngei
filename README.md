@@ -1,7 +1,3 @@
-![GitHub Gif](https://github.com/bngei/bngei/assets/91493713/6dd6e72f-c6ff-4361-a1ae-bb23d0178071)
-
-
-
 # 📚 Benjamin Truong
 **`Software Developer`**
 
